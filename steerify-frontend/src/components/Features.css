@@ -1,0 +1,11 @@
+.features {
+    background: #e3f2fd;
+    padding: 2rem;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+  }
+  

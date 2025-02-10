@@ -1,0 +1,11 @@
+.trusted-by {
+    background: white;
+    padding: 2rem;
+  }
+  
+  .logos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
